@@ -1,4 +1,4 @@
-![BioByt Logo](https://github.com/user-attachments/assets/926310ae-bb50-4fa7-9fbe-3a9bc123010d)
+![BioByt Logo](https://github.com/user-attachments/assets/882aface-a060-4c27-9f3a-1c40b49151a3)
 
 # BioByt - Healthcare Management Solutions
 
